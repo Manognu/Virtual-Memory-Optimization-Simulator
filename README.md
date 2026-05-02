@@ -1,2 +1,11 @@
-# Virtual-Memory-Optimization-Simulator
-A **Virtual Memory Optimization Simulator** is a project that models how an operating system manages memory using techniques like paging and page replacement algorithms (e.g., FIFO, LRU). It helps analyze and compare performance metrics such as page faults and memory utilization to determine the most efficient strategy.
+
+  # Virtual Memory Optimization Simulator
+
+  This is a code bundle for Virtual Memory Optimization Simulator. The original project is available at https://www.figma.com/design/qpjBd6vaf0ng23nXxlYIwo/Virtual-Memory-Optimization-Simulator.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
